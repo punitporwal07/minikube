@@ -1,3 +1,5 @@
+######################## SHOULD BE USED ONLY ON UBUNTU BASED VMs ########################
+
 #!/bin/bash
 
 # Install Docker
